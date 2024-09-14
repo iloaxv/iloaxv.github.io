@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iloaxv.github.io/hHg/sitemap.hHg.gz
